@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks changes
 Creating a new branch is qucik and simple
 add merge
+test the stash function again
